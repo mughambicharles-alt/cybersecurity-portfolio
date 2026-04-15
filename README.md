@@ -1,5 +1,5 @@
 # cybersecurity-portfolio
-My cybersecurity learning, projects, and AI development journey.
+My cybersecurity learning, projects and AI development journey.
 # 🛡️ Cybersecurity Portfolio
 
 ## 👋 About Me
